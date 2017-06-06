@@ -1,15 +1,17 @@
 
 ![logo](pics/herus_logo.png)
 <br>
-<span style="color:gray; font-size: 0.4em;">PhD proposal</span>
+<span style="color:gray; font-size: 0.6em;">PhD proposal</span>
 <br>
-<span style="color:black; font-size: 0.8em;">Dynamics of the Urban Metabolism</span>
 <br>
-<span style="color:black; font-size: 0.6em;">Joao Meirelles</span>
+<span style="color:black; font-size: 1.2em;">Dynamics of the Urban Metabolism</span>
 <br>
-<span style="color:gray; font-size: 0.4em;">Supervisor: Prof. Dr. Claudia Binder</span>
+<span style="color:black; font-size: 0.8em;">Joao Meirelles</span>
 <br>
-<span style="color:gray; font-size: 0.4em;">Co-supervisor: Dr. Emanuele Massaro</span>
+<br>
+<span style="color:gray; font-size: 0.6em;">Supervisor: Prof. Dr. Claudia Binder</span>
+<br>
+<span style="color:gray; font-size: 0.6em;">Co-supervisor: Dr. Emanuele Massaro</span>
 
 ---
 ![urban_footprint](pics/urban_footprint.jpg)
