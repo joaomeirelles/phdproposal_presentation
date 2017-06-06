@@ -33,7 +33,7 @@ ggplot(urban_pop)+
         panel.border = element_blank(), panel.grid.major = element_blank(),
                      panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
 #ggsave("./pics/growth.png", width = 7, height = 4)
-ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/growth2.png", width = 7, height = 4)
+ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/growth2.png", width = 6, height = 4)
 
 
 
@@ -51,7 +51,7 @@ labs(x="urban population [%]", y="gdp per capita [ppp]")+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/urban_income.png", width = 7, height = 4)
+ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/urban_income.png", width = 6, height = 4)
 
 
 ### Gini ###
@@ -65,7 +65,7 @@ labs(x="urban population [%]", y="gini index")+
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/gini.png", width = 7, height = 4)
+ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/gini.png", width = 6, height = 4)
 
 
 ### footprint ###
@@ -85,6 +85,6 @@ ggplot(urban_footprint[urban_footprint$urbanpop_perc>10,], aes(urbanpop_perc, To
         plot.title = element_text(size=16, face="bold", margin = margin(10, 0, 10, 0)),
         panel.border = element_blank(), panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"))
-ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/footprint.png", width = 7, height = 4)
+ggsave("/home/jm/Dropbox/PhD/proposal/phdproposal_presentation/pics/footprint.png", width = 6, height = 4)
 
 

@@ -61,7 +61,7 @@
 <span style="color:grey; font-size: 0.2em;">[49]]</span>
 
 +++
-<span style="color:black; font-size: 1em;">what will be the environmental impacts of a urban world</span>
+<span style="color:black; font-size: 1em;">what will be the environmental impacts of an urban world</span>
 
 ---
 <span style="color:black; font-size: 1em;">urban impacts: </span>
