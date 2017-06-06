@@ -1,9 +1,14 @@
-![logo](pics/herus_m.png)
-![head](pics/head.png)
+![logo](pics/HERUS_logo_proposition_tst.png)
+
 <br>
-<span style="color:black; font-size: 0.6em;">Laboratory for Human-Environment Relations in Urban Systems</span>
+<span style="color:gray; font-size: 0.4em;">PhD proposal</span>
 <br>
-<span style="color:gray; font-size: 0.4em;">Prof. Dr. Claudia R. Binder, Susan Mühlemeier, Livia Fritz, Franziska Meinherz, Joao Meirelles, Thomas Bauwens, Jonas Mehr, Thibaud Rossel</span>
+<span style="color:black; font-size: 0.6em;">Dynamics of the Urban Metabolism</span>
+<br>
+<span style="color:black; font-size: 0.4em;">Joao Meirelles</span>
+<br>
+<span style="color:gray; font-size: 0.4em;">Supervisor: Prof. Dr. Claudia Binder</span>
+<span style="color:gray; font-size: 0.4em;">Co-supervisor: Dr. Emanuele Massaro</span>
 
 ---
 ![urban_footprint](pics/urban_footprint.jpg)
