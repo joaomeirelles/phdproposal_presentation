@@ -61,15 +61,32 @@
 ![footprint](pics/urban_energy.png)
 <span style="color:grey; font-size: 0.3em;">[49]]</span>
 
-+++
+---
 <span style="color:black; font-size: 0.8em;">?</span>
 <br>
 <span style="color:black; font-size: 0.8em;">what will be the environmental impacts of an urban world</span>
 <br>
 <span style="color:black; font-size: 0.8em;">?</span>
----
-<span style="color:black; font-size: 1em;">urban impacts: </span>
-<span style="color:grey; font-size: 0.8em;">  what are it's drivers and dynamics?</span>
+
++++
+
+<span style="color:gray; font-size: 0.8em;">cities, data, and complex systems</span>
+<br>
+![nature](pics/batty.png)
+<br>
+<span style="color:black; font-size: 0.8em;">considers that the form and the function of urban systems are engendered by universal laws that emerge from elementary local level interactions[8, 13, 27, 37]</span>
+
++++
+
+
+<br>
+<span style="color:black; font-size: 0.8em;">superlinear</span><span style="color:grey; font-size: 0.8em;">  scaling less impactful</span>
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  less impactful</span>
+
++++
+
+
+
 
 +++
 <span style="color:black; font-size: 0.8em;">the urban metabolism</span>
