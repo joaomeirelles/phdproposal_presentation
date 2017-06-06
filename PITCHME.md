@@ -85,7 +85,8 @@
 +++
 <span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
-![socioeconomic](pics/socioeconomic.png)![infrastructure](pics/infrastructure.png)
+![socioeconomic](pics/socioeconomic.png)
+![infrastructure](pics/infrastructure.png)
 <br>
 <span style="color:green; font-size: 0.8em;">superlinear scaling</span><span style="color:grey; font-size: 0.8em;">  of socioeconomic output</span>
 
@@ -96,6 +97,7 @@
 <span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
 ![nature](pics/smog.png)
+<br>
 <span style="color:black; font-size: 0.6em;">still missing empirical confirmation</span>
 <br>
 <span style="color:black; font-size: 0.6em;">still limited in scope</span>
@@ -114,11 +116,16 @@
 +++
 <span style="color:gray; font-size: 0.5em;">urban metabolism</span>
 <br>
+<br>
+<br>
 <span style="color:black; font-size: 0.6em;">different methods, aims and scopes</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">still limited in scope - direct flows</span>
 <br>
+<br>
 <span style="color:black; font-size: 0.6em;">data problems - temporal and spatial scales</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">missing a bottom-up understanding of it</span>
 
@@ -200,11 +207,13 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 
 +++
-<span style="color:black; font-size: 0.8em;">proposal</span>
+<span style="color:gray; font-size: 0.5em;">proposal</span>
+<br>
 ![proposal](pics/proposal.png)
 
 +++
-<span style="color:black; font-size: 0.8em;">proposal</span>
+<span style="color:gray; font-size: 0.5em;">proposal</span>
+<br>
 ![proposalt](pics/proposal_table.png)
 
 ---
@@ -212,12 +221,14 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">Global Urban Metabolism Database</span>
 <br>
 ![umgdb](pics/umgdb.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">LCA-based Urban Metabolism</span>
 <br>
 ![lca](pics/lca.png)
@@ -225,7 +236,9 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">method: </span>
+<br>
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 
@@ -235,13 +248,16 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 2 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">Scaling laws in Brazilian Cities</span>
 <br>
 ![sl](pics/scaling_laws.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 2 - what will be done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">method: </span>
+<br>
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 ---
@@ -249,13 +265,16 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 3 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">Exploring the energy use drivers of 10 cities at microscale level</span>
 <br>
 ![cisbat](pics/cisbat.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 3 - what will be done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">method: </span>
+<br>
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 ---
@@ -263,12 +282,14 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">Urban scaling laws based on distance dependent interactions</span>
 <br>
 ![sld](pics/sld.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">The role of space in social organisation</span>
 <br>
 ![se](pics/se.png)
@@ -284,5 +305,6 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 ---
 ![logo](pics/herus_logo.png)
+<br>
 <span style="color:black; font-size: 0.8em;">thanks</span>
 
