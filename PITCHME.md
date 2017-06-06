@@ -1,4 +1,6 @@
+
 ![logo](pics/herus_logo.png)
+<br>
 <span style="color:gray; font-size: 0.4em;">PhD proposal</span>
 <br>
 <span style="color:black; font-size: 0.8em;">Dynamics of the Urban Metabolism</span>
