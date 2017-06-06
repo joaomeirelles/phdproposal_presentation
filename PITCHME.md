@@ -14,24 +14,23 @@
 <span style="color:gray; font-size: 0.6em;">Co-supervisor: Dr. Emanuele Massaro</span>
 
 ---
-![urban_footprint](pics/urban_footprint.jpg)
-<span style="color:grey; font-size: 0.2em;">global footprint network</span>
-
----
-![herus_methods](pics/herus_methods.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
-
----
 <span style="color:black; font-size: 1em;">urban world</span>
 
 +++
-![impacts](pics/impacts.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
+
+<span style="color:black; font-size: 0.8em;">3% of world’s land surface</span>
+<br>
+<span style="color:black; font-size: 0.8em;">54% of global population</span>
+<br>
+<span style="color:black; font-size: 0.8em;">80% of global GDP</span>
+<br>
+<span style="color:black; font-size: 0.8em;">75% of natural resources consumption</span>
+<span style="color:grey; font-size: 0.2em;">[24]]</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">the world is going urban</span>
 ![growth_description](pics/growth2.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
+<span style="color:grey; font-size: 0.2em;">herus based on UN data</span>
 
 
 +++
@@ -43,20 +42,26 @@
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
 ![income](pics/urban_income.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
+<span style="color:grey; font-size: 0.2em;">herus based on WB data</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
 ![gini](pics/gini.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
+<span style="color:grey; font-size: 0.2em;">herus based on WB data</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactful</span>
 ![footprint](pics/footprint.png)
-<span style="color:grey; font-size: 0.2em;">herus</span>
+<span style="color:grey; font-size: 0.2em;">herus based on GFN data</span>
 
++++
+<span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  less impactful</span>
+![footprint](pics/urban_energy.png)
+<span style="color:grey; font-size: 0.2em;">[49]]</span>
 
++++
+<span style="color:black; font-size: 1em;">what will be the environmental impacts of a urban world</span>
 
 ---
 <span style="color:black; font-size: 1em;">urban impacts: </span>
