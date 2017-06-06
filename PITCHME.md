@@ -133,17 +133,17 @@
 +++
 <span style="color:gray; font-size: 0.5em;">research gaps</span>
 <br>
-<span style="color:black; font-size: 0.6em;">1. Urban metabolism studies are, largely, limited to direct material flows, not taking into account upstream and downstream environmental impacts related to those flows
+<span style="color:black; font-size: 0.5em;">1. Urban metabolism studies are, largely, limited to direct material flows, not taking into account upstream and downstream environmental impacts related to those flows
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">2. A general - and potentially universal - relation between the urban metabolism and the population size of the city (Brand’s laws) is still lacking stronger empirical evidence</span>
+<span style="color:black; font-size: 0.5em;">2. A general - and potentially universal - relation between the urban metabolism and the population size of the city (Brand’s laws) is still lacking stronger empirical evidence</span>
 <br>
-<span style="color:black; font-size: 0.6em;">3. Commonly used datasets have coarse-grained temporal and spatial definitions, making it hard to explore the role of demographic, economic, infrastructure, and environmental profiles of cities in their metabolism </span>
+<span style="color:black; font-size: 0.5em;">3. Commonly used datasets have coarse-grained temporal and spatial definitions, making it hard to explore the role of demographic, economic, infrastructure, and environmental profiles of cities in their metabolism </span>
 <br>
-<span style="color:black; font-size: 0.6em;">4. The metabolism of cities is typically studied as a linear reactor at the city level scale. There is a lack of explanations on how the metabolic features could emerge from citizen level interactions/decisions in relations to local environmental/infrastructural constraints
+<span style="color:black; font-size: 0.5em;">4. The metabolism of cities is typically studied as a linear reactor at the city level scale. There is a lack of explanations on how the metabolic features could emerge from citizen level interactions/decisions in relations to local environmental/infrastructural constraints
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">5. There is a lack of integrative mechanistic understanding of urban metabolism, which leads to a lack of understanding of its dynamics
+<span style="color:black; font-size: 0.5em;">5. There is a lack of integrative mechanistic understanding of urban metabolism, which leads to a lack of understanding of its dynamics
 </span>
 
 
@@ -157,7 +157,7 @@
 <br>
 ![h1](pics/h1.png)
 <br>
-<span style="color:black; font-size: 0.6em;">1 - The so-called Brand’s law[8]- increasing efficiency of cities due to agglomeration effects - is
+<span style="color:black; font-size: 0.5em;">1 - The so-called Brand’s law[8]- increasing efficiency of cities due to agglomeration effects - is
 only observed if the flows studied are limited to direct consumption.
 </span>
 
@@ -166,21 +166,22 @@ only observed if the flows studied are limited to direct consumption.
 <br>
 ![h2](pics/h2.png)
 <br>
-<span style="color:black; font-size: 0.6em;">2 - Metabolic flows are very unlikely to be linearly related to population or any other urban
+<span style="color:black; font-size: 0.5em;">2 - Metabolic flows are very unlikely to be linearly related to population or any other urban
 variable and this non-linearity is emerging from local level interactions, which potentially indicates regularities throughout cities.
 </span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">hypothesis</span>
 <br>
-<span style="color:black; font-size: 0.6em;">3 - The sublinear scaling of infrastructure variables might be dependent on the cities’ capacity for investing in it - Environmental Kuznets Curve
+<br>
+<span style="color:black; font-size: 0.5em;">3 - The sublinear scaling of infrastructure variables might be dependent on the cities’ capacity for investing in it - Environmental Kuznets Curve
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">4 - It is possible that the fundamental materiality of cities, with population density and service
+<span style="color:black; font-size: 0.5em;">4 - It is possible that the fundamental materiality of cities, with population density and service
 availability, generates higher consumption patterns due to marketing, retail availability and social interactions.
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">5 - It could be the case that the technological innovations provided by cities are not enough to overcome its overconsumption due to economic development. Especially if rebound effects are considered.
+<span style="color:black; font-size: 0.5em;">5 - It could be the case that the technological innovations provided by cities are not enough to overcome its overconsumption due to economic development. Especially if rebound effects are considered.
 </span>
 
 
@@ -188,20 +189,21 @@ availability, generates higher consumption patterns due to marketing, retail ava
 ---
 <span style="color:gray; font-size: 0.5em;">objectives</span>
 <br>
-<span style="color:black; font-size: 0.6em;">This research has the main objective to understand how does the urban metabolism changes as a city grows. To achieve this, some secondary objectives are proposed:
+<br>
+<span style="color:black; font-size: 0.5em;">This research has the main objective to understand how does the urban metabolism changes as a city grows. To achieve this, some secondary objectives are proposed:
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">1 - Undertake a literature review to understand current methods and findings on Urban Metabolism
+<span style="color:black; font-size: 0.5em;">1 - Undertake a literature review to understand current methods and findings on Urban Metabolism
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">2 - Develop a general method that accounts for upstream and downstream environmental impacts of cities and, at the same time, enables cross cities comparisons
+<span style="color:black; font-size: 0.5em;">2 - Develop a general method that accounts for upstream and downstream environmental impacts of cities and, at the same time, enables cross cities comparisons
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">3 - Create a database of metabolic features for a representative set of cities in, at least, two
+<span style="color:black; font-size: 0.5em;">3 - Create a database of metabolic features for a representative set of cities in, at least, two
 distinct urban systems (north and south), and test the role of population size (Brand’s law) as well as other socioeconomic/infrastructural characteristics of the city on its metabolic flows
 </span>
 <br>
-<span style="color:black; font-size: 0.6em;">4 - Develop an agent-based model (ABM) coupled with cellular automata to bring a mechanistic
+<span style="color:black; font-size: 0.5em;">4 - Develop an agent-based model (ABM) coupled with cellular automata to bring a mechanistic
 understanding of cities’ metabolic processes in terms of its population size, its geography, economy, infrastructure and social practices.
 </span>
 
@@ -296,12 +298,14 @@ understanding of cities’ metabolic processes in terms of its population size, 
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what will be done</span>
+<br>
 <span style="color:black; font-size: 0.6em;">method: </span>
+<br>
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 ---
 <span style="color:black; font-size: 0.8em;">schedule</span>
-
+![logo](pics/schedule.png)
 
 ---
 ![logo](pics/herus_logo.png)
