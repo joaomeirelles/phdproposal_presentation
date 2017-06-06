@@ -1,4 +1,4 @@
-![logo](pics/HERUS_logo_proposition_tst.png)
+![logo](pics/herus_logo.png)
 
 <br>
 <span style="color:gray; font-size: 0.4em;">PhD proposal</span>
