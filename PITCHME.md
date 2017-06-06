@@ -76,34 +76,223 @@
 
 +++
 
-<span style="color:gray; font-size: 0.8em;">cities, data, and complex systems</span>
+<span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
-![nature](pics/batty.png)
+![batty](pics/batty.jpg)
 <br>
-<span style="color:black; font-size: 0.8em;">considers that the form and the function of urban systems are engendered by universal laws that emerge from elementary local level interactions[8, 13, 27, 37]</span>
+<span style="color:black; font-size: 0.6em;">the form and the function of urban systems are engendered by universal laws that emerge from elementary local level interactions[8, 13, 27, 37]</span>
 
 +++
-<span style="color:gray; font-size: 0.8em;">scaling laws</span>
+<span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
 ![socioeconomic](pics/socioeconomic.png)![infrastructure](pics/infrastructure.png)
 <br>
-<span style="color:blue font-size: 0.8em;">superlinear scaling</span><span style="color:grey; font-size: 0.8em;">  of socioeconomic output</span>
+<span style="color:green; font-size: 0.8em;">superlinear scaling</span><span style="color:grey; font-size: 0.8em;">  of socioeconomic output</span>
 
-<span style="color:green; font-size: 0.8em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
+<span style="color:blue; font-size: 0.8em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
 
 
 +++
-<span style="color:gray; font-size: 0.8em;">cities, data, and complex systems</span>
+<span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
 ![nature](pics/smog.png)
-<span style="color:black; font-size: 0.8em;">still missing empirical confirmation</span>
-<span style="color:black; font-size: 0.8em;">still limited in scope</span>
-<span style="color:black; font-size: 0.8em;">still missing explanations for the residuals</span>
+<span style="color:black; font-size: 0.6em;">still missing empirical confirmation</span>
+<br>
+<span style="color:black; font-size: 0.6em;">still limited in scope</span>
+<br>
+<span style="color:black; font-size: 0.6em;">still missing explanations for the residuals</span>
 
 
 +++
+<span style="color:gray; font-size: 0.5em;">urban metabolism</span>
+<br>
+![um](pics/um.png)
+<br>
+<span style="color:black; font-size: 0.6em;">"...the interactions of urban systems with nature"[22]</span>
 
 
++++
+<span style="color:gray; font-size: 0.5em;">urban metabolism</span>
+<br>
+<span style="color:black; font-size: 0.6em;">different methods, aims and scopes</span>
+<br>
+<span style="color:black; font-size: 0.6em;">still limited in scope - direct flows</span>
+<br>
+<span style="color:black; font-size: 0.6em;">data problems - temporal and spatial scales</span>
+<br>
+<span style="color:black; font-size: 0.6em;">missing a bottom-up understanding of it</span>
+
+
++++
+<span style="color:gray; font-size: 0.5em;">research gaps</span>
+<br>
+<span style="color:black; font-size: 0.6em;">1. Urban metabolism studies are, largely, limited to direct material flows, not taking into account upstream and downstream environmental impacts related to those flows
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">2. A general - and potentially universal - relation between the urban metabolism and the population size of the city (Brand’s laws) is still lacking stronger empirical evidence</span>
+<br>
+<span style="color:black; font-size: 0.6em;">3. Commonly used datasets have coarse-grained temporal and spatial definitions, making it hard to explore the role of demographic, economic, infrastructure, and environmental profiles of cities in their metabolism </span>
+<br>
+<span style="color:black; font-size: 0.6em;">4. The metabolism of cities is typically studied as a linear reactor at the city level scale. There is a lack of explanations on how the metabolic features could emerge from citizen level interactions/decisions in relations to local environmental/infrastructural constraints
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">5. There is a lack of integrative mechanistic understanding of urban metabolism, which leads to a lack of understanding of its dynamics
+</span>
+
+
++++
+<span style="color:gray; font-size: 0.5em;">framework</span>
+<br>
+![um](pics/framework.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">hypothesis</span>
+<br>
+![h1](pics/h1.png)
+<br>
+<span style="color:black; font-size: 0.6em;">1 - The so-called Brand’s law[8]- increasing efficiency of cities due to agglomeration effects - is
+only observed if the flows studied are limited to direct consumption.
+</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">hypothesis</span>
+<br>
+![h2](pics/h2.png)
+<br>
+<span style="color:black; font-size: 0.6em;">2 - Metabolic flows are very unlikely to be linearly related to population or any other urban
+variable and this non-linearity is emerging from local level interactions, which potentially indicates regularities throughout cities.
+</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">hypothesis</span>
+<br>
+<span style="color:black; font-size: 0.6em;">3 - The sublinear scaling of infrastructure variables might be dependent on the cities’ capacity for investing in it - Environmental Kuznets Curve
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">4 - It is possible that the fundamental materiality of cities, with population density and service
+availability, generates higher consumption patterns due to marketing, retail availability and social interactions.
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">5 - It could be the case that the technological innovations provided by cities are not enough to overcome its overconsumption due to economic development. Especially if rebound effects are considered.
+</span>
+
+
+
+---
+<span style="color:gray; font-size: 0.5em;">objectives</span>
+<br>
+<span style="color:black; font-size: 0.6em;">This research has the main objective to understand how does the urban metabolism changes as a city grows. To achieve this, some secondary objectives are proposed:
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">1 - Undertake a literature review to understand current methods and findings on Urban Metabolism
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">2 - Develop a general method that accounts for upstream and downstream environmental impacts of cities and, at the same time, enables cross cities comparisons
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">3 - Create a database of metabolic features for a representative set of cities in, at least, two
+distinct urban systems (north and south), and test the role of population size (Brand’s law) as well as other socioeconomic/infrastructural characteristics of the city on its metabolic flows
+</span>
+<br>
+<span style="color:black; font-size: 0.6em;">4 - Develop an agent-based model (ABM) coupled with cellular automata to bring a mechanistic
+understanding of cities’ metabolic processes in terms of its population size, its geography, economy, infrastructure and social practices.
+</span>
+
+
++++
+<span style="color:black; font-size: 0.8em;">proposal</span>
+![proposal](pics/proposal.png)
+
++++
+<span style="color:black; font-size: 0.8em;">proposal</span>
+![proposalt](pics/proposal_table.png)
+
+---
+<span style="color:black; font-size: 0.8em;">step 1 - measuring</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">Global Urban Metabolism Database</span>
+<br>
+![umgdb](pics/umgdb.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">LCA-based Urban Metabolism</span>
+<br>
+![lca](pics/lca.png)
+
+
++++
+<span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
+<span style="color:black; font-size: 0.6em;">method: </span>
+<span style="color:black; font-size: 0.6em;">expected outcomes: </span>
+
+
+
+---
+<span style="color:black; font-size: 0.8em;">step 2 - general trend</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">step 2 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">Scaling laws in Brazilian Cities</span>
+<br>
+![sl](pics/scaling_laws.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">step 2 - what will be done</span>
+<span style="color:black; font-size: 0.6em;">method: </span>
+<span style="color:black; font-size: 0.6em;">expected outcomes: </span>
+
+---
+<span style="color:black; font-size: 0.8em;">step 3 - specific trends</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">step 3 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">Exploring the energy use drivers of 10 cities at microscale level</span>
+<br>
+![cisbat](pics/cisbat.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">step 3 - what will be done</span>
+<span style="color:black; font-size: 0.6em;">method: </span>
+<span style="color:black; font-size: 0.6em;">expected outcomes: </span>
+
+---
+<span style="color:black; font-size: 0.8em;">step 4 - mechanistic understanding</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">Urban scaling laws based on distance dependent interactions</span>
+<br>
+![sld](pics/sld.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<span style="color:black; font-size: 0.6em;">The role of space in social organisation</span>
+<br>
+![se](pics/se.png)
+
++++
+<span style="color:gray; font-size: 0.5em;">step 4 - what will be done</span>
+<span style="color:black; font-size: 0.6em;">method: </span>
+<span style="color:black; font-size: 0.6em;">expected outcomes: </span>
+
+---
+<span style="color:black; font-size: 0.8em;">schedule</span>
+
+
+---
+<span style="color:black; font-size: 0.8em;">thanks</span>
+
++++
+<span style="color:gray; font-size: 0.5em;"></span>
+what have been done
+
++++
+<span style="color:gray; font-size: 0.5em;"></span>
+method
+expected outcomes
 
 
 +++
