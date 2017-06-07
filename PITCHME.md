@@ -413,15 +413,6 @@ to an asymptotic increase in energy consumption. Rebound effects will be studied
 <span style="color:black; font-size: 0.5em;">Modeling LCA-based Urban Metabolism with ABM- Environmental Plan B ; JASSS ; Computers, Environment and Urban Systems; International Workshop on Agent-based modelling of urban systems</span>
 
 
-+++
-<span style="color:gray; font-size: 0.5em;">step 4 - what will be done</span>
-<br>
-<br>
-<br>
-<span style="color:grey; font-size: 0.5em;">expected outcomes: </span>
-<br>
-<span style="color:black; font-size: 0.5em;">Recognizing Drivers of the urbam metabolism through machine learning - Environmental Plan B ; Cities and the Environment; Future Cities and Environment</span>
-
 ---
 <span style="color:black; font-size: 0.8em;">schedule</span>
 ![logo](pics/schedule.png)
@@ -429,7 +420,7 @@ to an asymptotic increase in energy consumption. Rebound effects will be studied
 
 ---
 <span style="color:black; font-size: 0.4em;">Bibliography</span>
-<span style="color:black; font-size: 0.3em;">[1] L. G. Alves, H. V. Ribeiro, E. K. Lenzi, and R. S. Mendes. Distance to the scaling law: a useful approach for unveiling relationships between crime and urban metrics. Plos one, 8(8):e69580, 2013.
+<span style="color:black; font-size: 0.1em;">[1] L. G. Alves, H. V. Ribeiro, E. K. Lenzi, and R. S. Mendes. Distance to the scaling law: a useful approach for unveiling relationships between crime and urban metrics. Plos one, 8(8):e69580, 2013.
 [2] P. W. Anderson et al. More is different. Science, 177(4047):393–396, 1972. 
 [3] E. Arcaute, E. Hatna, P. Ferguson, H. Youn, A. Johansson, and M. Batty. Constructing cities, deconstructing scaling laws. Journal of The Royal Society Interface, 12(102):20140745, 2015.
 [4] E. Arcaute, H. Youn, P. Ferguson, E. Hatna, M. Batty, and A. Johansson. City boundaries and the universality of scaling laws. Technical report, 2013.
@@ -484,6 +475,10 @@ to an asymptotic increase in energy consumption. Rebound effects will be studied
 </span>
 
 ---
+<br>
+<br>
+<br>
+<br>
 ![logo](pics/herus_logo.png)
 <br>
 <span style="color:black; font-size: 0.8em;">thanks</span>
