@@ -39,14 +39,12 @@
 <span style="color:black; font-size: 0.8em;">the world is going urban</span>
 <br>
 <br>
-<br>
 ![growth_description](pics/growth2.png)
 <span style="color:grey; font-size: 0.3em;">herus based on UN data</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  denser</span>
-<br>
 <br>
 <br>
 ![denser](pics/denser.jpg)
@@ -57,14 +55,12 @@
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
 <br>
 <br>
-<br>
 ![income](pics/urban_income.png)
 <span style="color:grey; font-size: 0.3em;">herus based on WB data</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
-<br>
 <br>
 <br>
 ![gini](pics/gini.png)
@@ -74,13 +70,11 @@
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactful</span>
 <br>
 <br>
-<br>
 ![footprint](pics/footprint.png)
 <span style="color:grey; font-size: 0.3em;">herus based on GFN data</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  less impactful</span>
-<br>
 <br>
 ![footprint](pics/urban_energy.png)
 <span style="color:grey; font-size: 0.3em;">[49]]</span>
@@ -258,9 +252,19 @@ availability, generates higher consumption patterns due to marketing, retail ava
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
 <br>
-<span style="color:black; font-size: 0.6em;">method: </span>
+<span style="color:black; font-size: 0.6em;">A comprehensive, general, replicable and computational way of assessing the environmental impact of cities
+</span>
 <br>
-<span style="color:black; font-size: 0.6em;">expected outcomes: </span>
+<span style="color:black; font-size: 0.5em;">method: Economic Input-Output Life Cycle Assessment(EIO-LCA)</span>
+<br>
+<span style="color:black; font-size: 0.5em;">data: Infrastructure (OSM, Satellite); Energy (FOEN, ANP); Material flows (Insurance data for durable goods, waste data for non-durable goods)</span>
+
++++
+<span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
+<br>
+<br>
+<br>
+<span style="color:black; font-size: 0.5em;">expected outcomes: Urban Environmental impact quantification through Economic Input-Output Life Cycle Assessment - Journal of Industrial Ecology; The International Journal of Life Cycle Assessment; International Society for Industrial Ecology Conference</span>
 
 
 
