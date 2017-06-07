@@ -90,7 +90,7 @@
 <br>
 <span style="color:green; font-size: 0.6em;">superlinear scaling</span><span style="color:grey; font-size: 0.6em;">  of socioeconomic output</span>
 
-<span style="color:blue; font-size: 0.8em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
+<span style="color:blue; font-size: 0.6em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
 
 
 +++
