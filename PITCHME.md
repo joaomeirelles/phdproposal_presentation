@@ -114,7 +114,6 @@
 +++
 <span style="color:gray; font-size: 0.5em;">cities, data, and complex systems - gaps</span>
 <br>
-<br>
 ![nature](pics/smog.png)
 <br>
 <span style="color:black; font-size: 0.5em;">still missing empirical confirmation / a broader scope</span>
@@ -128,7 +127,6 @@
 <span style="color:gray; font-size: 0.5em;">urban metabolism</span>
 <br>
 <br>
-<br>
 ![um](pics/um.png)
 <br>
 <span style="color:black; font-size: 0.6em;">"...the interactions of urban systems with nature"[22]</span>
@@ -136,7 +134,6 @@
 
 +++
 <span style="color:gray; font-size: 0.5em;">urban metabolism - gaps</span>
-<br>
 <br>
 <br>
 <span style="color:black; font-size: 0.6em;">different methods, aims and scopes</span>
@@ -195,7 +192,6 @@ variable and this non-linearity is emerging from local level interactions, which
 <span style="color:gray; font-size: 0.5em;">hypothesis</span>
 <br>
 <br>
-<br>
 <span style="color:black; font-size: 0.5em;">3 - The sublinear scaling of infrastructure variables might be dependent on the cities’ capacity for investing in it - Environmental Kuznets Curve
 </span>
 <br>
@@ -214,12 +210,10 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:gray; font-size: 0.5em;">proposal</span>
 <br>
 <br>
-<br>
 ![proposal](pics/proposal.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">proposal</span>
-<br>
 <br>
 <br>
 ![proposalt](pics/proposal_table.png)
@@ -252,20 +246,25 @@ availability, generates higher consumption patterns due to marketing, retail ava
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
 <br>
+<br>
 <span style="color:black; font-size: 0.6em;">A comprehensive, general, replicable and computational way of assessing the environmental impact of cities
 </span>
 <br>
-<span style="color:black; font-size: 0.5em;">method: Economic Input-Output Life Cycle Assessment(EIO-LCA)</span>
 <br>
-<span style="color:black; font-size: 0.5em;">data: Infrastructure (OSM, Satellite); Energy (FOEN, ANP); Material flows (Insurance data for durable goods, waste data for non-durable goods)</span>
+<span style="color:grey; font-size: 0.5em;">method: </span><span style="color:black; font-size: 0.5em;">Economic Input-Output Life Cycle Assessment(EIO-LCA)</span>
+<br>
+<br>
+<span style="color:grey; font-size: 0.5em;">data: </span><span style="color:black; font-size: 0.5em;">Infrastructure (OSM, Satellite); Energy (FOEN, ANP); Material flows (Insurance data for durable goods, waste data for non-durable goods)</span>
+
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
 <br>
 <br>
 <br>
-<span style="color:black; font-size: 0.5em;">expected outcomes: Urban Environmental impact quantification through Economic Input-Output Life Cycle Assessment - Journal of Industrial Ecology; The International Journal of Life Cycle Assessment; International Society for Industrial Ecology Conference</span>
-
+<span style="color:grey; font-size: 0.5em;">expected outcomes: </span>
+<br>
+<span style="color:black; font-size: 0.5em;">Urban Environmental impact quantification through Economic Input-Output Life Cycle Assessment - Journal of Industrial Ecology; The International Journal of Life Cycle Assessment; International Society for Industrial Ecology Conference</span>
 
 
 ---
