@@ -231,7 +231,7 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:black; font-size: 0.6em;">Global Urban Metabolism Database</span>
 <br>
 ![umgdb](pics/umgdb.png)
-
+<span style="color:grey; font-size: 0.3em;">Metabolis of Cities</span>
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
 <br>
@@ -245,7 +245,7 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:gray; font-size: 0.5em;">step 1 - what will be done</span>
 <br>
 <br>
-<span style="color:black; font-size: 0.6em;">A comprehensive, general, replicable and computational way of assessing the environmental impact of cities
+<span style="color:black; font-size: 0.6em;">A comprehensive, general, replicable and computational method of assessing the environmental impact of cities
 </span>
 <br>
 <br>
@@ -280,7 +280,7 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:black; font-size: 0.6em;">Scaling laws in Brazilian Cities</span>
 <br>
 ![sl](pics/scaling_laws.png)
-
+<span style="color:grey; font-size: 0.3em;">Meirelles, J.; Neto, C.R.; Ribeiro, F.L.; Ferreira, F.F.; Binder, C.R. Scaling Laws in Brazilian Cites. in preparation</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 2 - what will be done</span>
@@ -291,7 +291,7 @@ general scaling law behind the environmental impact of cities
 </span>
 <br>
 <br>
-<span style="color:grey; font-size: 0.5em;">method: </span><span style="color:black; font-size: 0.5em;">Scaling Analyzis [36], Exponent robustness analyzis</span>
+<span style="color:grey; font-size: 0.5em;">method: </span><span style="color:black; font-size: 0.5em;">Scaling Analysis [36], Exponent robustness analysis</span>
 <br>
 <br>
 <span style="color:grey; font-size: 0.5em;">data: </span><span style="color:black; font-size: 0.5em;">Environemntal Impact indicaros calculates in step 1 and population of cities</span>
@@ -321,6 +321,7 @@ general scaling law behind the environmental impact of cities
 <span style="color:black; font-size: 0.6em;">Exploring the energy use drivers of 10 cities at microscale level</span>
 <br>
 ![cisbat](pics/cisbat.png)
+<span style="color:grey; font-size: 0.3em;">Athanassiadis, A.; Fernandez, G.; Meirelles, J.; Meinherz, F.; Hoekman, P.; Cari, Y.B. Exploring the energy use drivers of 10 cities at microscale level. Under revision for publication at the Proceedings of the CISBAT17 conference</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 3 - what will be done</span>
@@ -359,6 +360,8 @@ the Urban Metabolism</span>
 <span style="color:black; font-size: 0.6em;">Urban scaling laws based on distance dependent interactions</span>
 <br>
 ![sld](pics/sld.png)
+<span style="color:grey; font-size: 0.3em;">Ribeiro, F. L., Meirelles, J., Ferreira, F. F., and Neto, C. R.. A model of urban scaling laws based on distance dependent interactions. Royal Society Open Science 4.3 (2017): 160926.</span>
+
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
@@ -367,6 +370,8 @@ the Urban Metabolism</span>
 <span style="color:black; font-size: 0.6em;">The role of space in social organisation</span>
 <br>
 ![se](pics/se.png)
+<span style="color:grey; font-size: 0.3em;">Netto, V. M., Meirelles, J., and Ribeiro, F. L.. Social Organisation and the City: The role of space in the reduction of social entropy. Under revision for publication at Complexity</span>
+
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what will be done</span>
