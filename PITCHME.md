@@ -18,22 +18,27 @@
 <br>
 <br>
 <br>
+<br>
 <span style="color:black; font-size: 1em;">urban world</span>
 
 +++
-
-<span style="color:black; font-size: 0.8em;">3% of world’s land surface</span>
 <br>
-<span style="color:black; font-size: 0.8em;">54% of global population</span>
 <br>
-<span style="color:black; font-size: 0.8em;">80% of global GDP</span>
 <br>
-<span style="color:black; font-size: 0.8em;">75% of natural resources consumption</span>
+<span style="color:black; font-size: 0.8em;">3%</span><span style="color:grey; font-size: 0.8em;">  of world’s land surface</span>
+<br>
+<span style="color:black; font-size: 0.8em;">54%</span><span style="color:grey; font-size: 0.8em;">  of global population</span>
+<br>
+<span style="color:black; font-size: 0.8em;">80%</span><span style="color:grey; font-size: 0.8em;">  of global GDP</span>
+<br>
+<span style="color:black; font-size: 0.8em;">75%</span><span style="color:grey; font-size: 0.8em;">  of natural resources consumption</span>
 <br>
 <span style="color:grey; font-size: 0.3em;">[24]]</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">the world is going urban</span>
+<br>
+<br>
 <br>
 ![growth_description](pics/growth2.png)
 <span style="color:grey; font-size: 0.3em;">herus based on UN data</span>
@@ -42,12 +47,16 @@
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  denser</span>
 <br>
+<br>
+<br>
 ![denser](pics/denser.jpg)
 <span style="color:grey; font-size: 0.3em;">plan b</span>
 
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  richer</span>
+<br>
+<br>
 <br>
 ![income](pics/urban_income.png)
 <span style="color:grey; font-size: 0.3em;">herus based on WB data</span>
@@ -56,11 +65,15 @@
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more unequal</span>
 <br>
+<br>
+<br>
 ![gini](pics/gini.png)
 <span style="color:grey; font-size: 0.3em;">herus based on WB data</span>
 
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  more impactful</span>
+<br>
+<br>
 <br>
 ![footprint](pics/footprint.png)
 <span style="color:grey; font-size: 0.3em;">herus based on GFN data</span>
@@ -68,10 +81,15 @@
 +++
 <span style="color:black; font-size: 0.8em;">as cities grow bigger, they become  </span><span style="color:grey; font-size: 0.8em;">  less impactful</span>
 <br>
+<br>
 ![footprint](pics/urban_energy.png)
 <span style="color:grey; font-size: 0.3em;">[49]]</span>
 
 ---
+<br>
+<br>
+<br>
+<br>
 <span style="color:black; font-size: 0.8em;">?</span>
 <br>
 <span style="color:black; font-size: 0.8em;">what will be the environmental impacts of an urban world</span>
@@ -82,6 +100,7 @@
 
 <span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
+<br>
 ![batty](pics/batty.jpg)
 <br>
 <span style="color:black; font-size: 0.6em;">the form and the function of urban systems are engendered by universal laws that emerge from elementary local level interactions[8, 13, 27, 37]</span>
@@ -89,28 +108,32 @@
 +++
 <span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
 <br>
+<br>
 ![socioeconomic](pics/socioeconomic.png)
 ![infrastructure](pics/infrastructure.png)
 <br>
 <span style="color:green; font-size: 0.6em;">superlinear scaling</span><span style="color:grey; font-size: 0.6em;">  of socioeconomic output</span>
 
-<span style="color:blue; font-size: 0.6em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
+<span style="color:blue; font-size: 0.6em;">sublinear scaling</span><span style="color:grey; font-size: 0.6em;">  of infrastructure</span>
 
 
 +++
-<span style="color:gray; font-size: 0.5em;">cities, data, and complex systems</span>
+<span style="color:gray; font-size: 0.5em;">cities, data, and complex systems - gaps</span>
+<br>
 <br>
 ![nature](pics/smog.png)
 <br>
-<span style="color:black; font-size: 0.6em;">still missing empirical confirmation</span>
+<span style="color:black; font-size: 0.5em;">still missing empirical confirmation / a broader scope</span>
 <br>
-<span style="color:black; font-size: 0.6em;">still limited in scope</span>
+<span style="color:black; font-size: 0.5em;">still missing explanations for the residuals</span>
 <br>
-<span style="color:black; font-size: 0.6em;">still missing explanations for the residuals</span>
+<span style="color:black; font-size: 0.5em;">still missing a mechanistic understanding</span>
 
 
 +++
 <span style="color:gray; font-size: 0.5em;">urban metabolism</span>
+<br>
+<br>
 <br>
 ![um](pics/um.png)
 <br>
@@ -118,7 +141,7 @@
 
 
 +++
-<span style="color:gray; font-size: 0.5em;">urban metabolism</span>
+<span style="color:gray; font-size: 0.5em;">urban metabolism - gaps</span>
 <br>
 <br>
 <br>
@@ -178,12 +201,15 @@ variable and this non-linearity is emerging from local level interactions, which
 <span style="color:gray; font-size: 0.5em;">hypothesis</span>
 <br>
 <br>
+<br>
 <span style="color:black; font-size: 0.5em;">3 - The sublinear scaling of infrastructure variables might be dependent on the cities’ capacity for investing in it - Environmental Kuznets Curve
 </span>
+<br>
 <br>
 <span style="color:black; font-size: 0.5em;">4 - It is possible that the fundamental materiality of cities, with population density and service
 availability, generates higher consumption patterns due to marketing, retail availability and social interactions.
 </span>
+<br>
 <br>
 <span style="color:black; font-size: 0.5em;">5 - It could be the case that the technological innovations provided by cities are not enough to overcome its overconsumption due to economic development. Especially if rebound effects are considered.
 </span>
@@ -193,18 +219,28 @@ availability, generates higher consumption patterns due to marketing, retail ava
 ---
 <span style="color:gray; font-size: 0.5em;">proposal</span>
 <br>
+<br>
+<br>
 ![proposal](pics/proposal.png)
 
 +++
 <span style="color:gray; font-size: 0.5em;">proposal</span>
 <br>
+<br>
+<br>
 ![proposalt](pics/proposal_table.png)
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
 <span style="color:black; font-size: 0.8em;">step 1 - measuring</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">Global Urban Metabolism Database</span>
 <br>
@@ -212,6 +248,7 @@ availability, generates higher consumption patterns due to marketing, retail ava
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 1 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">LCA-based Urban Metabolism</span>
 <br>
@@ -228,10 +265,16 @@ availability, generates higher consumption patterns due to marketing, retail ava
 
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
 <span style="color:black; font-size: 0.8em;">step 2 - general trend</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 2 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">Scaling laws in Brazilian Cities</span>
 <br>
@@ -245,10 +288,16 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
 <span style="color:black; font-size: 0.8em;">step 3 - specific trends</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 3 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">Exploring the energy use drivers of 10 cities at microscale level</span>
 <br>
@@ -262,10 +311,16 @@ availability, generates higher consumption patterns due to marketing, retail ava
 <span style="color:black; font-size: 0.6em;">expected outcomes: </span>
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
 <span style="color:black; font-size: 0.8em;">step 4 - mechanistic understanding</span>
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">Urban scaling laws based on distance dependent interactions</span>
 <br>
@@ -273,6 +328,7 @@ availability, generates higher consumption patterns due to marketing, retail ava
 
 +++
 <span style="color:gray; font-size: 0.5em;">step 4 - what have been done</span>
+<br>
 <br>
 <span style="color:black; font-size: 0.6em;">The role of space in social organisation</span>
 <br>
