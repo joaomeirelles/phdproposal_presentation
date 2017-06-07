@@ -88,7 +88,7 @@
 ![socioeconomic](pics/socioeconomic.png)
 ![infrastructure](pics/infrastructure.png)
 <br>
-<span style="color:green; font-size: 0.8em;">superlinear scaling</span><span style="color:grey; font-size: 0.8em;">  of socioeconomic output</span>
+<span style="color:green; font-size: 0.6em;">superlinear scaling</span><span style="color:grey; font-size: 0.6em;">  of socioeconomic output</span>
 
 <span style="color:blue; font-size: 0.8em;">sublinear scaling</span><span style="color:grey; font-size: 0.8em;">  of infrastructure</span>
 
@@ -140,10 +140,10 @@
 <br>
 <span style="color:black; font-size: 0.4em;">3. Commonly used datasets have coarse-grained temporal and spatial definitions, making it hard to explore the role of demographic, economic, infrastructure, and environmental profiles of cities in their metabolism </span>
 <br>
-<span style="color:black; font-size: 0.em;">4. The metabolism of cities is typically studied as a linear reactor at the city level scale. There is a lack of explanations on how the metabolic features could emerge from citizen level interactions/decisions in relations to local environmental/infrastructural constraints
+<span style="color:black; font-size: 0.4em;">4. The metabolism of cities is typically studied as a linear reactor at the city level scale. There is a lack of explanations on how the metabolic features could emerge from citizen level interactions/decisions in relations to local environmental/infrastructural constraints
 </span>
 <br>
-<span style="color:black; font-size: 0.5em;">5. There is a lack of integrative mechanistic understanding of urban metabolism, which leads to a lack of understanding of its dynamics
+<span style="color:black; font-size: 0.4em;">5. There is a lack of integrative mechanistic understanding of urban metabolism, which leads to a lack of understanding of its dynamics
 </span>
 
 

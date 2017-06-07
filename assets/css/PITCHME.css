@@ -3,7 +3,13 @@
   font-family: "Cambria", Georgia, serif, "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
-
+.reveal .slides {
+    text-align: left;
+}
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
 
 
 .reveal section img {
